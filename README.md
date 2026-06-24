@@ -31,7 +31,7 @@ Actualmente desarrollo proyectos propios bajo **CodeFusion**, incluyendo **Fusio
 * Construyo backends y APIs con **Python, Django, Django REST Framework y Node.js**.
 * Trabajo con bases de datos como **PostgreSQL, MySQL, SQLite y Firebase/Firestore**.
 * Desarrollo aplicaciones móviles con **Flutter, React Native y Android**.
-* Uso herramientas de infraestructura y despliegue como **Docker, Git, GitHub, GitHub Actions, Linux, AWS, GCP, Firebase, Vercel, Render y Cloudflare**.
+* Uso herramientas de infraestructura y despliegue como **Docker, Git, GitHub, GitHub Actions, Linux, AWS, GCP, Firebase, Vercel, Render, DigitalOcean y Cloudflare**.
 * Integro herramientas de **IA aplicada** como apoyo para análisis técnico, documentación, debugging, prototipado y automatización, siempre con revisión crítica.
 
 ---
