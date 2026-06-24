@@ -56,7 +56,7 @@ Actualmente desarrollo proyectos propios bajo **CodeFusion**, incluyendo **Fusio
 
 ### Tooling & DevOps
 
-`Docker` · `Docker Compose` · `Git` · `GitHub` · `GitHub Actions` · `Linux/WSL` · `Nginx` · `Vercel` · `Render` · `Cloudflare`, `DigitalOcean`
+`Docker` · `Docker Compose` · `Git` · `GitHub` · `GitHub Actions` · `Linux/WSL` · `Nginx` · `Vercel` · `Render` · `DigitalOcean` · `Cloudflare`
 
 ---
 
