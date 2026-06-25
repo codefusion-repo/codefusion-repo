@@ -71,7 +71,7 @@ Mi sitio profesional y espacio de desarrollo de productos, servicios y solucione
 
 ### Fusion Remote
 
-Producto propio en desarrollo. Una aplicación orientada al control remoto IR/Wi-Fi local, pensada para resolver un problema cotidiano con una experiencia simple y accesible.
+Producto en desarrollo. Una aplicación orientada al control remoto IR/Wi-Fi local, pensada para resolver un problema cotidiano con una experiencia simple y accesible.
 
 **Producto:** https://remote.codefusion.cl
 
