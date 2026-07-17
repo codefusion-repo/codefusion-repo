@@ -8,6 +8,7 @@ Construyo aplicaciones web, móviles, APIs, automatizaciones y productos propios
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codefusion.cl-0ea5e9?style=for-the-badge)](https://codefusion.cl)
 [![Fusion Remote](https://img.shields.io/badge/Product-Fusion%20Remote-22c55e?style=for-the-badge)](https://remote.codefusion.cl)
+[![Split Fusion](https://img.shields.io/badge/Product-Split%20Fusion-22c55e?style=for-the-badge)](https://split.codefusion.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Olguín-2563eb?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hellocodefusion/)
 [![GetOnBoard](https://img.shields.io/badge/GetOnBoard-Profile-7c3aed?style=for-the-badge)](https://www.getonbrd.com/p/jose-olguin-lagos-a0e2)
 
@@ -74,6 +75,12 @@ Mi sitio profesional y espacio de desarrollo de productos, servicios y solucione
 Producto en desarrollo. Una aplicación orientada al control remoto IR/Wi-Fi local, pensada para resolver un problema cotidiano con una experiencia simple y accesible.
 
 **Producto:** https://remote.codefusion.cl
+
+### Split Fusion
+
+Producto en desarrollo. Una aplicación orientada a saldar cuentas sin drama, para viajeros, grupos de amigos, compañeros de cuarto.
+
+**Producto:** https://split.codefusion.cl
 
 ---
 
