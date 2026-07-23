@@ -18,7 +18,7 @@ Desarrollo aplicaciones web y productos digitales, cubriendo frontend, APIs, aut
 
 Soy Full Stack Developer con foco en aplicaciones web de negocio, productos digitales e integraciones de pago. Trabajo principalmente con **Python, Django, Django REST Framework, TypeScript, React y Next.js**.
 
-He desarrollado proyectos de manera end-to-end, desde la interfaz y la experiencia de usuario hasta APIs, lógica de negocio, webhooks, Docker, Nginx y despliegue. Actualmente curso Ingeniería en Informática y continúo desarrollando productos propios bajo CodeFusion.
+He desarrollado proyectos de manera end-to-end, desde la interfaz y la experiencia de usuario hasta APIs, lógica de negocio, webhooks, Docker, Nginx y despliegue. También continúo desarrollando productos propios bajo CodeFusion.
 
 Estoy abierto a oportunidades Full Stack o Backend Python/Django, preferentemente remotas.
 
