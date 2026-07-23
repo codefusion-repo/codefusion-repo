@@ -1,136 +1,92 @@
 <div align="center">
 
-# Hola, soy José Olguín Lagos 👋
+# José Olguín Lagos
 
-### Full Stack Developer · Product Builder · Estudiante de Ingeniería en Informática
+### Full Stack Developer | Python, Django, TypeScript, React y Next.js
 
-Construyo aplicaciones web, móviles, APIs, automatizaciones y productos propios con foco en **mantenibilidad, seguridad, UX y entrega real**.
+Construyo aplicaciones web y productos digitales end-to-end, desde UX e interfaces hasta APIs, autenticación, pagos, despliegue y operación.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codefusion.cl-0ea5e9?style=for-the-badge)](https://codefusion.cl)
-[![Fusion Remote](https://img.shields.io/badge/Product-Fusion%20Remote-22c55e?style=for-the-badge)](https://remote.codefusion.cl)
-[![Split Fusion](https://img.shields.io/badge/Product-Split%20Fusion-22c55e?style=for-the-badge)](https://split.codefusion.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Olguín-2563eb?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hellocodefusion/)
-[![GetOnBoard](https://img.shields.io/badge/GetOnBoard-Profile-7c3aed?style=for-the-badge)](https://www.getonbrd.com/p/jose-olguin-lagos-a0e2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codefusion.cl-0ea5e9?style=for-the-badge)](https://www.codefusion.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Olguín-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellocodefusion/)
+[![GetOnBoard](https://img.shields.io/badge/GetOnBoard-Perfil-7c3aed?style=for-the-badge)](https://www.getonbrd.com/p/jose-olguin-lagos-a0e2)
+[![Email](https://img.shields.io/badge/Email-jose%40codefusion.cl-374151?style=for-the-badge)](mailto:jose@codefusion.cl)
 
 </div>
 
 ---
 
-## Sobre mí
+## Perfil
 
-Soy **Full Stack Developer** y estudiante de **Ingeniería en Informática**. Vengo de una base creativa en diseño de videojuegos, lo que me ayudó a mirar el desarrollo de software desde una mezcla de producto, interacción, experiencia de usuario y sistemas.
+Full Stack Developer con experiencia construyendo aplicaciones web de negocio, productos propios e integraciones de pago. Trabajo principalmente con **Python, Django, Django REST Framework, TypeScript, React y Next.js**.
 
-Me interesa construir soluciones que no solo funcionen técnicamente, sino que también sean claras para las personas que las usan, mantenibles para quienes las desarrollan y razonables de operar en contextos reales.
+Busco incorporarme a un equipo de producto o ingeniería en un rol estable, idealmente remoto, donde pueda aportar construyendo y operando software end-to-end.
 
-Actualmente desarrollo proyectos propios bajo **CodeFusion**, incluyendo **Fusion Remote**, una aplicación orientada al control remoto IR/Wi-Fi local.
-
----
-
-## Qué hago
-
-* Desarrollo interfaces web con **React, Next.js, TypeScript y Tailwind CSS**.
-* Construyo backends y APIs con **Python, Django, Django REST Framework y Node.js**.
-* Trabajo con bases de datos como **PostgreSQL, MySQL, SQLite y Firebase/Firestore**.
-* Desarrollo aplicaciones móviles con **Flutter, React Native y Android**.
-* Uso herramientas de infraestructura y despliegue como **Docker, Git, GitHub, GitHub Actions, Linux, AWS, GCP, Firebase, Vercel, Render, DigitalOcean y Cloudflare**.
-* Integro herramientas de **IA aplicada** como apoyo para análisis técnico, documentación, debugging, prototipado y automatización, siempre con revisión crítica.
+- **Seniority objetivo:** Mid-level / Semi Senior
+- **Ubicación:** Santiago, Chile
+- **Disponibilidad:** inmediata
+- **Modalidad:** remoto preferente; abierto a híbrido o presencial en Santiago
+- **Inglés:** B2 Upper Intermediate certificado por EF SET
 
 ---
 
 ## Stack principal
 
-### Frontend
+**Backend:** Python · Django · Django REST Framework  
+**Frontend:** TypeScript · React · Next.js  
+**Data:** PostgreSQL · SQL  
+**Delivery:** Docker · Nginx · Git · Linux
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML` · `CSS`
-
-### Backend
-
-`Python` · `Django` · `Django REST Framework` · `Node.js` · `PHP` · `REST APIs`
-
-### Mobile
-
-`Flutter` · `Dart` · `React Native` · `Android`
-
-### Data & Cloud
-
-`PostgreSQL` · `MySQL` · `SQLite` · `Firebase` · `Firestore` · `AWS` · `Google Cloud Platform`
-
-### Tooling & DevOps
-
-`Docker` · `Docker Compose` · `Git` · `GitHub` · `GitHub Actions` · `Linux/WSL` · `Nginx` · `Vercel` · `Render` · `DigitalOcean` · `Cloudflare`
+También tengo experiencia complementaria con Flutter, React Native, Unity y C#.
 
 ---
 
 ## Proyectos destacados
 
-### CodeFusion
+### E-commerce Full Stack
 
-Mi sitio profesional y espacio de desarrollo de productos, servicios y soluciones técnicas.
+Aplicación desarrollada íntegramente con Django, DRF, Next.js y TypeScript. Incluye catálogo, autenticación, carrito, stock, compras, Flow, Mercado Pago y despliegue con Docker/Nginx.
 
-**Sitio:** https://codefusion.cl
-**Staging:** https://stg.codefusion.cl
+**Demo:** https://ecommerce-demo.codefusion.cl/
+
+### Inventory Management System
+
+Sistema de gestión para pymes con productos, stock, precios, boletas, órdenes de compra y panel administrativo.
+
+**Demo:** https://inventory-demo.codefusion.cl/
+
+### Rental Housing Platform
+
+Plataforma de reservas utilizada en producción durante aproximadamente dos años, con tráfico real, pre-reservas, confirmación por correo y pagos mediante Flow.
+
+**Demo:** https://rental-demo.codefusion.cl/
 
 ### Fusion Remote
 
-Producto en desarrollo. Una aplicación orientada al control remoto IR/Wi-Fi local, pensada para resolver un problema cotidiano con una experiencia simple y accesible.
+Aplicación Flutter Android-first para controlar dispositivos por IR y LAN, con modelo freemium sin anuncios ni suscripción y compra única Pro.
 
 **Producto:** https://remote.codefusion.cl
 
-### Split Fusion
-
-Producto en desarrollo. Una aplicación orientada a saldar cuentas sin drama, para viajeros, grupos de amigos, compañeros de cuarto.
-
-**Producto:** https://split.codefusion.cl
+> E-commerce, Inventory, Rentals y Portfolio están siendo preparados para futura publicación open source.
 
 ---
 
-## Cómo trabajo
+## Experiencia y resultados
 
-Me gusta desarrollar software con criterio técnico y visión de producto.
-
-Valoro especialmente:
-
-* Código claro y mantenible.
-* Buenas decisiones de arquitectura.
-* Documentación útil.
-* Seguridad desde el diseño.
-* Pull requests revisables.
-* Testing donde realmente reduce riesgo.
-* Buena experiencia de desarrollo para el equipo.
-* Soluciones que puedan evolucionar sin volverse frágiles.
-
-También me interesa entender el contexto detrás de cada funcionalidad: qué problema resuelve, para quién, con qué restricciones y qué impacto tendrá mantenerla en el tiempo.
+- Desarrollo freelance pagado desde 2021.
+- 5 pedidos visibles completados en Fiverr por USD 2.260 de valor bruto visible.
+- 2 contratos Unity/3D completados en Upwork por USD 360.
+- Más de 15 demos y prototipos hypercasuales desarrollados en Unity/C#.
+- Nano Pop superó las 1.000 descargas.
+- Hero Kick superó las 500 descargas.
 
 ---
 
-## Actualmente
+## Enlaces
 
-Estoy abierto a oportunidades como:
-
-* **Full Stack Developer**
-* **Frontend Developer**
-* **Backend Developer**
-* **Junior fuerte / Semi Senior inicial**
-* **Desarrollador con foco en IA aplicada**
-* **Web/Mobile Developer**
-
-Preferentemente remoto, en Chile o equipos de habla hispana.
-
----
-
-## Contacto
-
-* Portfolio: https://codefusion.cl
-* Producto: https://remote.codefusion.cl
-* LinkedIn: https://www.linkedin.com/in/hellocodefusion/
-* GetOnBoard: https://www.getonbrd.com/p/jose-olguin-lagos-a0e2
-* Email: [jose@codefusion.cl](mailto:jose@codefusion.cl)
-
----
-
-<div align="center">
-
-### Desarrollo productos digitales con foco en calidad, claridad técnica y valor real.
-
-</div>
-
+- Portfolio: https://www.codefusion.cl
+- LinkedIn: https://www.linkedin.com/in/hellocodefusion/
+- Get on Board: https://www.getonbrd.com/p/jose-olguin-lagos-a0e2
+- Fiverr: https://es.fiverr.com/jnxx77?public_mode=true
+- Upwork: https://www.upwork.com/freelancers/~01a6fdec7e75121ffd
+- EF SET: https://cert.efset.org/bKAiP4
+- Email: jose@codefusion.cl
