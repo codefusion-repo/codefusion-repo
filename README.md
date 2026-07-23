@@ -49,8 +49,6 @@ Plataforma de reservas que operó en producción durante aproximadamente dos añ
 
 Aplicación Flutter Android-first para controlar dispositivos mediante IR y red local, actualmente en preparación para publicación.
 
-> E-commerce, Inventory, Rentals y Portfolio están siendo preparados para futura publicación open source.
-
 ## Trayectoria complementaria
 
 Antes de concentrarme en desarrollo web, cofundé y coordiné técnicamente un equipo de videojuegos, desarrollando más de 15 demos y prototipos móviles con Unity y C#. También publiqué de forma independiente Nano Pop y Hero Kick.
