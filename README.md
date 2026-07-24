@@ -41,6 +41,8 @@ Aplicación desarrollada con Django, Django REST Framework, Next.js y TypeScript
 
 Sistema de gestión para pymes con productos, stock, precios, boletas, órdenes de compra y panel administrativo.
 
+**Acceso de prueba al dashboard:** usuario `CodeFusion` · contraseña `123456`
+
 ### [Rental Housing Platform](https://rental-demo.codefusion.cl/)
 
 Plataforma de reservas que operó en producción durante aproximadamente dos años. Incluye disponibilidad, pre-reservas, confirmación por correo y pagos mediante Flow.
