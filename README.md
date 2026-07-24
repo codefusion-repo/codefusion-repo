@@ -20,7 +20,7 @@ Soy Full Stack Developer con foco en aplicaciones web de negocio, productos digi
 
 Desarrollo soluciones de manera end-to-end, desde interfaces y APIs hasta autenticación, lógica de negocio, webhooks, despliegue y operación. Desde 2021 también realizo trabajo freelance para clientes internacionales, y desde 2023 desarrollo productos y soluciones bajo CodeFusion.
 
-Busco oportunidades Full Stack o Backend Python/Django, preferentemente remotas. También estoy abierto a oportunidades selectivas como Unity Developer, Gameplay Programmer o Technical Game Designer.
+Busco oportunidades Full Stack o Backend Python/Django, preferentemente remotas. También estoy abierto a oportunidades como Unity Developer, Gameplay Programmer o Technical Game Designer.
 
 ## Tecnologías principales
 
