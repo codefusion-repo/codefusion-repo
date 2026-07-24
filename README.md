@@ -57,5 +57,4 @@ Antes de concentrarme en desarrollo web, cofundé y coordiné técnicamente un e
 
 - Portfolio: https://www.codefusion.cl
 - LinkedIn: https://www.linkedin.com/in/hellocodefusion/
-- Get on Board: https://www.getonbrd.com/p/jose-olguin-lagos-a0e2
 - Email: jose@codefusion.cl
